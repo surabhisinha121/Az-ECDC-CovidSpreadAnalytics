@@ -1,0 +1,9 @@
+{
+	"name": "datafactorysurabhitest",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b124b30d-dfca-4747-9292-b91b5e980db6",
+		"tenantId": "4612cab6-7aab-4d09-803a-53a59afe0b3b"
+	}
+}
